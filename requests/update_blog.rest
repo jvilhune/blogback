@@ -1,0 +1,9 @@
+PUT http://localhost:3001/api/blogs/652bdb530936e91544a654ea
+Content-Type: application/json
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6Imp2aWxodW5lIiwiaWQiOiI2NTBmOWYzNzk5ZDk3OTg1MTNhNDc2ZjAiLCJpYXQiOjE2OTczNzI4NTl9.mBg0EM_ObotM2PlS9kAEd8dFnjkMbrCRPEZi6yDb5lk
+
+{
+"title": "Astral Dream Records", "author": "Lucio Corsini", "url": "http://www.astraldream.com", "likes": 100, "comments": "Nice record shop"
+}
+
+

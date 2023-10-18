@@ -1,0 +1,9 @@
+POST http://localhost:3001/api/blogs  
+Content-Type: application/json
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6Imp2aWxodW5lIiwiaWQiOiI2NTBmOWYzNzk5ZDk3OTg1MTNhNDc2ZjAiLCJpYXQiOjE2OTczODcwNDd9.Um7Y14wxm1atgyi4zBWtT-bPZ7gj-cR9la_7YU7ATOg
+
+{
+"title": "Who Records", "author": "Keith Moon", "url": "https://www.who.com", "likes": 100, "comments": "Who is the best"
+}
+
+

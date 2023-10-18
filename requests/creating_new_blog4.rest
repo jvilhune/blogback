@@ -1,0 +1,9 @@
+POST http://localhost:3001/api/blogs  
+Content-Type: application/json
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6Imp2aWxodW5lIiwiaWQiOiI2NTBmOWYzNzk5ZDk3OTg1MTNhNDc2ZjAiLCJpYXQiOjE2OTc1MjkwMTZ9.mioJPIxfLAY0doUaps0wNMnzs2uLV8qNz1ohGJMHEuI
+
+{
+"title": "Collect Records", "author": "Alan Hull", "url": "https://www.collect.fi", "likes": 10
+}
+
+
